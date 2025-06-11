@@ -37,4 +37,4 @@ Also the user can cancel the subscription and renew it, if subscription is out o
 
 ## Developers
 
-- [an-rabtsevich](https://github.com/an-rabtsevich)
+- [an-laptinskaya](https://github.com/an-laptinskaya)
